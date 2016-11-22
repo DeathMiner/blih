@@ -1,5 +1,4 @@
-#!/usr/bin/env python3.3
-
+#!/usr/bin/env python
 #-
 # Copyright 2013-2014 Emmanuel Vadot <elbarto@bocal.org>
 # All rights reserved
@@ -24,6 +23,13 @@
 # STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
 # IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
+#
+# ------
+# 
+# Modified by Jordan Demaison <jordan.demaison@epitech.eu>
+# Based on blih v1.7 protocol
+#
+
 
 import os
 import sys
